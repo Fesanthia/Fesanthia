@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m a teacher (associate professor, at Pharmacy faculty of Algiers University, Algeria).
+- ⚡ I use R and Shiny in my research.
+- 💬 I speak arabic, french and english !
 <!--
 **Fesanthia/Fesanthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
